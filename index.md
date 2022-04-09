@@ -22,6 +22,7 @@
 2. Number two
 3. Number three
 
+This is a horizontal line
 ---
 
 This is an `Inline code`
