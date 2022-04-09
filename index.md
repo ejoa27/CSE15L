@@ -9,7 +9,7 @@
 [This is a link](https://canvas.ucsd.edu/)
 
 
-![Image](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg)
+![Image](https://media.istockphoto.com/photos/library-on-the-campus-of-ucsd-picture-id1353684223?k=20&m=1353684223&s=612x612&w=0&h=MNJ2StKhAG_J4SPm4JdQV5KMPW87YzNrCSECddIywYo=)
 
 > This is a blockquote
 > 
