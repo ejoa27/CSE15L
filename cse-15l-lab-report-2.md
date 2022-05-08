@@ -1,5 +1,7 @@
 # Week 4 Lab Report
 
+Hello World!
+
 # [Failed Test 1](https://ejoa27.github.io/CSE15L/Test-files/brackets-test.md)
 
 ![brackets](Images/Brackets-test.png)
