@@ -1,4 +1,5 @@
 # CSE15L Lab Report 3
+# [Link to index site](https://ejoa27.github.io/CSE15L/index.md)
 # Streamlining ssh Configuration
 I edited my config file by creating a config file in the .ssh folder of my user account folder, and adding the necessary lines to the config file. This allowed me to login into my ieng6 account without having to my complete username:
 ![Config](Images/configLab3.png)
