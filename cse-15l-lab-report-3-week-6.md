@@ -2,7 +2,11 @@
 # Streamlining ssh Configuration
 I edited my config file by creating a config file in the .ssh folder of my user account folder, and adding the necessary lines to the config file. This allowed me to login into my ieng6 account without having to my complete username:
 ![Config](Images/configLab3.png)
+
+In this image, I login into my account using the alias instead of my whole user account:
 ![Login](Images/loginLab3.png)
+
+In this image, I copy a file to my account using the alias instead of my whole user account:
 ![Copy](Images/copyLab3.png)
 
 # Setup Github Access from ieng6
@@ -17,8 +21,8 @@ In the following images, I cloned a repository, and made a change to my previous
 ![AddAndCommit](Images/AddAndCommitLab3.png)
 
 # Copy whole directories with `scp -r`
-I copied the markdown-parse repository to my ieng6 account, logged into my account and ran the tests. All of these commands were done individuall
+In this image, I copied the markdown-parse repository to my ieng6 account, logged into my account and ran the tests. All of these commands were done individually.
 ![IndividualSteps](Images/ShortLab3.png)
 
-I did the same thing as before I only used one command.
+In this image, I did the same thing as before but I only used one command.
 ![LastPart](Images/SCPLastPartLab3.png)
