@@ -1,5 +1,8 @@
 # This is a heading
-
+# Lab Report Links
+[Lab Report 1](https://ejoa27.github.io/CSE15L/cse-15l-lab-report-1.html)
+[Lab Report 2](https://ejoa27.github.io/CSE15L/cse-15l-lab-report-2.html)
+[Lab Report 3](https://ejoa27.github.io/CSE15L/cse-15l-lab-report-3-week-6.html)
 ## This is another heading
 
 *This is italics*
