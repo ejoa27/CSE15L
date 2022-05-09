@@ -1,4 +1,4 @@
-# CSE15L Lab Report 3
+# Lab Report 3
 # [Link to index site](https://ejoa27.github.io/CSE15L/index.html)
 # Streamlining ssh Configuration
 Using an alias helps me use much shorter commands when using login into my account or using longer terminal commands that need me to write my user account multiple times.
