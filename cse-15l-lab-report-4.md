@@ -1,8 +1,8 @@
 # Lab Report 3
 
-# [Link to my markdown-parse repository](https://github.com/ejoa27/markdown-parser)
+**[Link to my markdown-parse repository](https://github.com/ejoa27/markdown-parser)**
 
-# [Link to the reviewed markdown-parse implementation](https://github.com/FishInAZ/makrdown-parse-own)
+**[Link to the reviewed markdown-parse implementation](https://github.com/FishInAZ/makrdown-parse-own)**
 
 # What it should produce/Previews of the markdown files
 
